@@ -5,7 +5,7 @@ Android Kernel Geliştirmeyi İle İlgileniyorum
 
 - 🔭 Şu anda üzerinde çalıştığım proje: 
 - 🌱 Şu an öğrendiğim diller: C - Python
-- 📫 Bana ulaşın: t.me/McgXtr
+- 📫 Bana ulaşın: https://t.me/McgXtr
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
