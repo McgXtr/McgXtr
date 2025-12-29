@@ -1,10 +1,10 @@
 # Selam! Ben McgXtr 👋
 
-### 👨‍💻 Hakkımda
+### 👨‍💻 Hakkımda ###
 Android Kernel Geliştirmeyi İle İlgileniyorum
 
-- 🔭 Şu anda üzerinde çalıştığım proje: 
-- 🌱 Şu an öğrendiğim diller: C - Python
+- 🔭 Şu anda üzerinde çalıştığım proje: **Custom Android Kernel Optimization & Development**
+- 🌱 Şu an öğrendiğim diller: C,C++,Python
 - 📫 Bana ulaşın: https://t.me/McgXtr
 
 ### 🛠️ Kullandığım Teknolojiler ve Araçlar
