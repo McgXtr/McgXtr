@@ -1,4 +1,4 @@
-# Selam! Ben mcgxxr 👋
+# Selam! Ben mcgxtr 👋
 
 ### 👨‍💻 Hakkımda ###
 Android Kernel Geliştirmeyi İle İlgileniyorum
